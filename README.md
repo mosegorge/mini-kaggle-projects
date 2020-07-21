@@ -1,2 +1,2 @@
 # mini-kaggle-projects
-some small projects and missions from kaddle 
+some small projects and missions from kaggle 
