@@ -2,7 +2,7 @@
 
 Assigments and small projects from kaggle.
 
-This projects shows the Data-science process 
+The various projects are designed to present different steps in the Data-science process 
 
 1. [scraping and crawling](https://github.com/mosegorge/mini-kaggle-projects/blob/master/git%20hub%20repo-scraping%20and%20crawling%20.ipynb)
 
